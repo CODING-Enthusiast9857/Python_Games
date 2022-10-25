@@ -5,7 +5,6 @@
 
 # 📌 About
 - This repository contains games created in Python
-- Any basic game 
 
 # 📝 Licensed by 
 <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
