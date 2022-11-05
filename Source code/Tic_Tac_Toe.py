@@ -37,7 +37,7 @@ if __name__ == "__main__":
     x=[0,0,0,0,0,0,0,0,0]
     o=[0,0,0,0,0,0,0,0,0]
     chance=1 #1 for x & 0 for o
-    print("***** W E L C O M E *****")
+    print("* * * * * W E L C O M E * * * * *")
 
     while(True):
         printBoard(x,o)
