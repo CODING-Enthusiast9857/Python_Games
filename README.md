@@ -2,7 +2,7 @@
 
 ### This repository is specially for the games created in python. 
 
-<img src="https://github.com/CODING-Enthusiast9857/Python_Games/blob/main/Games.jpeg" width=500>
+<img src="https://github.com/CODING-Enthusiast9857/Python_Games/blob/main/Games.jpeg" width=50% height=50%>
 
 # 📌 About
 - This repository contains games created in Python
