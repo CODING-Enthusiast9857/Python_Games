@@ -1,4 +1,4 @@
-# Requirements
+# 📌 Requirements
 - You need to install Libraries such as barcode, python-barcode
 - Type following command in command prompt
 - **pip install barcode**
