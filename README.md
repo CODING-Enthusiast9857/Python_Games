@@ -1,4 +1,4 @@
-# 🎮 Games 🎮
+# 🎮 Games Repository 🎮
 
 ### This repository is specially for the games created in python. 
 
